@@ -7,10 +7,4 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"},
         features = "src/test/resources/features"
 )
-public class CucumberTestSuite {
-
-    @After(value = "@Test")
-    public void after() {
-        //do something
-    }
-}
+public class CucumberTestSuite { }
