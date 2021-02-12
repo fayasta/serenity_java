@@ -1,0 +1,12 @@
+[0403/170833.694:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0403/170833.695:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0403/170833.695:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0403/170833.695:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0408/132216.521:ERROR:file_io_win.cc(161)] CreateFile C:\Users\User-PC\AppData\Local\Temp\scoped_dir1176_1885260978\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0408/132216.522:ERROR:file_io_win.cc(170)] CreateFile C:\Users\User-PC\AppData\Local\Temp\scoped_dir1176_1885260978\Crashpad\reports\29ccd502-348f-4481-be74-f0ba61079f3d.dmp: The system cannot find the path specified. (0x3)
+[0408/132216.522:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0421/190923.409:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0422/124908.722:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0508/172244.216:ERROR:file_io_win.cc(161)] CreateFile C:\Users\esorcini\AppData\Local\Temp\scoped_dir10568_831599716\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0508/172244.224:ERROR:file_io_win.cc(170)] CreateFile C:\Users\esorcini\AppData\Local\Temp\scoped_dir10568_831599716\Crashpad\reports\fdb4c3e9-5375-4907-a3d8-da01682c1539.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0508/172244.224:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
